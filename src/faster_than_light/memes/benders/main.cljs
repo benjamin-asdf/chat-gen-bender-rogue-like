@@ -13,9 +13,7 @@
 (def clear-dist 7)
 (def clear-dist-sq (js/Math.pow clear-dist 2))
 
-
 (defn game [state]
-  
 
   )
 

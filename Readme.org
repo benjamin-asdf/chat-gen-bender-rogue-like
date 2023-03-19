@@ -1,5 +1,3 @@
-
-
 * Repl
 
 With the .dir-locals.el hacked in, then you don't have to select anything else.
@@ -8,6 +6,11 @@ With the .dir-locals.el hacked in, then you don't have to select anything else.
 (cider-jack-in-cljs '(:project-type shadow-cljs))
 #+end_src
 
-#+RESULTS:
-: #<process nrepl-server>
+* NOTICE
+This software contains parts of https://github.com/chr15m/rogule.com software,
+which is licenced under the GNU AFFERO GENERAL PUBLIC LICENSE.
+A copy of this license can be found at LICENSE.md in the root of this project.
 
+* LICENCE
+This software is licenced under the GNU AFFERO GENERAL PUBLIC LICENSE.
+See LICENSE.md for a copy of the license.
