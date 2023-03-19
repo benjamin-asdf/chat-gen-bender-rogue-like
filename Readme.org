@@ -1,0 +1,13 @@
+
+
+* Repl
+
+With the .dir-locals.el hacked in, then you don't have to select anything else.
+
+#+begin_src elisp :results nil
+(cider-jack-in-cljs '(:project-type shadow-cljs))
+#+end_src
+
+#+RESULTS:
+: #<process nrepl-server>
+

@@ -1,0 +1,3 @@
+{:tasks
+ {serve-local
+  (shell {:dir "public"} "http-server")}}
